@@ -1,0 +1,105 @@
+body {
+  background-color: #7fdbff;
+  font-family: David Libre;
+  border: 3px solid red;
+  border-style: ridge;
+ 
+}
+
+h1 {
+  font-size: 30px;
+  font-family: Signika;
+  text-shadow: 2px 2px red;
+  padding-bottom: 1em;
+}
+
+.h2header {
+  font-size: 30px;
+   font-family: Signika;
+   text-shadow: 2px 2px red;
+}
+
+nav {
+  float: right;
+  font-size: 24px;
+  padding-right: 2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+.firstp {
+  font-size: 20px;
+  font-family: Old Standard TT;
+  font-weight: 700;
+  padding-top: 3em;
+ 
+}
+
+.section1 {
+  overflow: hidden;
+  font-family: Lora;
+}
+
+.header1 {
+  overflow: hidden;
+}
+
+.header2 {
+  text-align: center;
+  padding-bottom: 2em;
+  padding-right: 15em;
+  font-family: Amaranth;
+  font-weight: 700;
+  padding-left: 15em;
+  
+
+}
+
+.grid {
+  display:grid;
+  grid-template-columns: repeat(3, 9fr);
+  grid-gap: 2em;
+  font-size: 14px;
+  padding-right: 3em;
+  font-family: Merriweather;
+  padding-left: 3em;
+
+}
+
+.firstimage {
+  width: 300px;
+  float: right;
+  padding-right: 2em;
+}
+
+.img1 {
+  width: 300px;
+  border: 1px solid #000000;
+}
+
+
+
+
+a:hover {
+  color: #ff0000;
+}
+
+.footer-nav {
+
+  padding: 25px;
+  padding-top: 15em;
+  padding-left: 12em;
+  word-spacing: 1em;
+
+}
+
+.bottomfooter {
+text-align: center;
+padding-top: 8em;
+  font-size: 28px;
+  
+}
